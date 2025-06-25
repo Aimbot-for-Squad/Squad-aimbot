@@ -53,7 +53,7 @@
 ## 🖼 S̶q̶u̶a̶d̶
 
 ![Squad Aimbot FOV Preview](https://cheatseller.ru/get_image/uploads/202407/phppxyjnv_split_byster_squad_scr_3.jpg)  
-*See all yor enemies with scanner in real-time*
+*See all your enemies with scanner in real-time*
 
 ![Overlay UI Configuration](https://cheatseller.ru/get_image/uploads/202407/phpmjoqxi_split_byster_squad_scr_1.jpg)  
 *Adjust smoothing, keybinds, and lock speed*
